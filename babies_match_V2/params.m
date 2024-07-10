@@ -1,0 +1,6 @@
+function Y = params()
+    Y.Subfolders={ ...
+    'F','Nature/HistMatch0';'G','Nature/HistMatch10';'H','Nature/HistMatch20';'I','Nature/HistMatch30';'J','Nature/HistMatch40';...
+    'O','Texture/HistMatch0';'P','Texture/HistMatch10';'Q','Texture/HistMatch20';'R','Texture/HistMatch30';'S','Texture/HistMatch40'
+    };
+end

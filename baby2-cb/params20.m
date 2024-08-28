@@ -1,0 +1,6 @@
+function Y = params()
+    Y.Subfolders={ ...
+    'H','20-nat-1';'I','20-nat-2';...
+    'Q','20-tex-1';'R','20-tex-2'
+    };
+end
